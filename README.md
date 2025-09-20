@@ -71,6 +71,10 @@ The LLM will suggest important functions within the current function. You then s
 
 ## Release Notes
 
+#### 1.0.1
+
+Impl React language feature
+
 #### 1.0.0
 
 TypeScript Reader's initial release

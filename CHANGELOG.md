@@ -4,6 +4,10 @@ All notable changes to the "typescript-reader" extension will be documented in t
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 1.0.1
+
+- Impl React language feature
+
 ## 1.0.0
 
 - Initial release

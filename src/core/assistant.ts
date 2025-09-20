@@ -59,7 +59,10 @@ class TypeScriptLanguageClient extends vscodelc.LanguageClient {
   }
 }
 
-export const typescriptLanguageServerDocumentSelector = [{ scheme: "file", language: "typescript" }];
+export const typescriptLanguageServerDocumentSelector = [
+  { scheme: "file", language: "typescript" },
+  { scheme: "file", language: "typescriptreact"}
+];
 
 export class TypeScriptReader {
   private apiHandler: LLMModel | null;
